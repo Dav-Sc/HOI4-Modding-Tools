@@ -1,0 +1,8 @@
+C:\Users\Dschi\Downloads\ColorPickerLibrary\ColorBox2D\bin\Release\ColorPicker.dll
+C:\Users\Dschi\Downloads\ColorPickerLibrary\ColorBox2D\bin\Release\ColorPicker.pdb
+C:\Users\Dschi\Downloads\ColorPickerLibrary\ColorBox2D\obj\Release\ColorPicker.csprojAssemblyReference.cache
+C:\Users\Dschi\Downloads\ColorPickerLibrary\ColorBox2D\obj\Release\MechanikaDesign.WinForms.UI.ColorPicker.ColorSliderVertical.resources
+C:\Users\Dschi\Downloads\ColorPickerLibrary\ColorBox2D\obj\Release\ColorPicker.csproj.GenerateResource.cache
+C:\Users\Dschi\Downloads\ColorPickerLibrary\ColorBox2D\obj\Release\ColorPicker.csproj.CoreCompileInputs.cache
+C:\Users\Dschi\Downloads\ColorPickerLibrary\ColorBox2D\obj\Release\ColorPicker.dll
+C:\Users\Dschi\Downloads\ColorPickerLibrary\ColorBox2D\obj\Release\ColorPicker.pdb

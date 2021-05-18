@@ -1,0 +1,13 @@
+C:\Users\Dschi\source\repos\HOI4 Modding Tools\HOI4 Modding Tools\bin\Release\HOI4 Modding Tools.exe.config
+C:\Users\Dschi\source\repos\HOI4 Modding Tools\HOI4 Modding Tools\bin\Release\HOI4 Modding Tools.exe
+C:\Users\Dschi\source\repos\HOI4 Modding Tools\HOI4 Modding Tools\bin\Release\HOI4 Modding Tools.pdb
+C:\Users\Dschi\source\repos\HOI4 Modding Tools\HOI4 Modding Tools\bin\Release\ColorPicker.dll
+C:\Users\Dschi\source\repos\HOI4 Modding Tools\HOI4 Modding Tools\bin\Release\ColorPicker.pdb
+C:\Users\Dschi\source\repos\HOI4 Modding Tools\HOI4 Modding Tools\obj\Release\HOI4 Modding Tools.csprojAssemblyReference.cache
+C:\Users\Dschi\source\repos\HOI4 Modding Tools\HOI4 Modding Tools\obj\Release\HOI4_Modding_Tools.NationColorCulture.resources
+C:\Users\Dschi\source\repos\HOI4 Modding Tools\HOI4 Modding Tools\obj\Release\HOI4_Modding_Tools.Properties.Resources.resources
+C:\Users\Dschi\source\repos\HOI4 Modding Tools\HOI4 Modding Tools\obj\Release\HOI4 Modding Tools.csproj.GenerateResource.cache
+C:\Users\Dschi\source\repos\HOI4 Modding Tools\HOI4 Modding Tools\obj\Release\HOI4 Modding Tools.csproj.CoreCompileInputs.cache
+C:\Users\Dschi\source\repos\HOI4 Modding Tools\HOI4 Modding Tools\obj\Release\HOI4 Modding Tools.csproj.CopyComplete
+C:\Users\Dschi\source\repos\HOI4 Modding Tools\HOI4 Modding Tools\obj\Release\HOI4 Modding Tools.exe
+C:\Users\Dschi\source\repos\HOI4 Modding Tools\HOI4 Modding Tools\obj\Release\HOI4 Modding Tools.pdb

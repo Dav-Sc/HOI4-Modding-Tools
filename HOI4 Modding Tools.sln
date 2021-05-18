@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HOI4 Modding Tools", "HOI4 Modding Tools\HOI4 Modding Tools.csproj", "{DE376D05-0BB6-4798-BAE0-936517E47BBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorPicker", "..\ColorPickerLibrary\ColorBox2D\ColorPicker.csproj", "{38F99682-D013-4AE3-8334-4BF492A11FF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE376D05-0BB6-4798-BAE0-936517E47BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE376D05-0BB6-4798-BAE0-936517E47BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE376D05-0BB6-4798-BAE0-936517E47BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE376D05-0BB6-4798-BAE0-936517E47BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38F99682-D013-4AE3-8334-4BF492A11FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F99682-D013-4AE3-8334-4BF492A11FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F99682-D013-4AE3-8334-4BF492A11FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F99682-D013-4AE3-8334-4BF492A11FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6C41980-4704-4A70-BD5F-A23EBB71D7AB}
+	EndGlobalSection
+EndGlobal
